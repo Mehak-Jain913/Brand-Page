@@ -23,6 +23,7 @@ export default function Hero() {
                 <div className="hero-image">
                     <img src={shoeImg} alt="shoe" width={600} />
                 </div>
+                <b>Made by Mehak Jain</b>
             </main>
         </div>
     )
